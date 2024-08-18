@@ -26,7 +26,6 @@ This is a simple Snake game implemented in Python using the Pygame library.
     ```
 
 3. Clone this repository:
-
     ```bash
     git clone https://github.com/your_username/snake-game.git
     ```
